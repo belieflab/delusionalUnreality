@@ -1,0 +1,15 @@
+"Table_name","Char.","Sub. Char.","item","Var. Type","Lvl. Names","Total","controls","psychics","psychosis","Statistic","Parameter","p value"
+"2","Gen. Char.","KB score","kb_score","Continuous; M (SD)",,"-0.2 (0.72)","-0.34 (0.71)","-0.1 (0.68)","-0.15 (0.73)","1.159968","2, 123","0.316902"
+"2","Gen. Char.","PDI-40 total","pdi40","Continuous; M (SD)",,"6.49 (5.99)","1.69 (2.4)","8.52 (4.88)","8.73 (6.34)","27.226755","2, 132","0"
+"2","Gen. Char.","Unreality: PDI-item-10","pdi40_i10_unreality","Categorical; # (%)","0","123 (91.1)","42 (100)","28 (90.3)","53 (85.5)","6.545535","2","0.037901"
+"2","Gen. Char.","Unreality: PDI-item-10","pdi40_i10_unreality","Categorical; # (%)","1","12 (8.9)","0 (0)","3 (9.7)","9 (14.5)",,,
+"2","Gen. Char.","Unreality: PDI-item-10","pdi40_i10_unreality","Categorical; # (%)","Missing Data","0","0","0","0",,,
+"2","Gen. Char.","BPRS Positive","bprs_pos","Continuous; M (SD)",,"2.38 (1.33)","1.01 (0.05)","3.64 (0.74)","2.69 (1.2)","83.57183","2, 131","0"
+"2","Gen. Char.","BPRS Negative","bprs_neg","Continuous; M (SD)",,"1.36 (0.54)","1.03 (0.11)","1.03 (0.09)","1.74 (0.58)","51.5894","2, 131","0"
+"2","Gen. Char.","BPRS Distress","bprs_dis","Continuous; M (SD)",,"1.15 (0.28)","1.03 (0.08)","1.05 (0.1)","1.28 (0.36)","15.518163","2, 131","1e-06"
+"2","Gen. Char.","FRS Percentaje","frs_perc","Continuous; M (SD)",,"25.09 (20.9)","NaN (NA)","12.02 (13.58)","31.73 (20.91)","22.641594","1, 90","7e-06"
+"2","Gen. Char.","Learning Rate (alpha)","lr_wm","Continuous; M (SD)",,"0.16 (0.15)","0.22 (0.16)","0.14 (0.12)","0.12 (0.14)","5.770816","2, 132","0.003957"
+"2","Gen. Char.","Additivity (gamma)","gamma_wm","Continuous; M (SD)",,"0.34 (0.31)","0.29 (0.29)","0.36 (0.32)","0.37 (0.31)","0.948495","2, 132","0.389947"
+"2","Gen. Char.","Forgetting (eta)","eta_wm","Continuous; M (SD)",,"0.45 (0.27)","0.45 (0.24)","0.44 (0.28)","0.45 (0.29)","0.015816","2, 132","0.98431"
+"2","Gen. Char.","Counterfactual (lambda)","lambda_wm","Continuous; M (SD)",,"0.25 (0.63)","0.31 (0.62)","0.26 (0.6)","0.2 (0.67)","0.373719","2, 132","0.688896"
+"2","Gen. Char.","Chat control","chat_control","Continuous; M (SD)",,"1.74 (1.52)","NaN (NA)","1.68 (1.11)","1.77 (1.7)","0.069826","1, 89","0.792201"

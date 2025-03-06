@@ -1,0 +1,21 @@
+"Table_name","Char.","Sub. Char.","item","Var. Type","Lvl. Names","Total","controls","psychics","psychosis","Statistic","Parameter","p value"
+"1","Gen. Char.","Age (years)","age","Continuous; M (SD)",,"39.22 (13.41)","37.79 (12.66)","49.42 (11.86)","35.1 (12.1)","14.609982","2, 132","2e-06"
+"1","Gen. Char.","Sex","curr_sex","Categorical; # (%)","F","70 (51.9)","25 (59.5)","24 (77.4)","21 (33.9)","17.136325","2","0.00019"
+"1","Gen. Char.","Sex","curr_sex","Categorical; # (%)","M","65 (48.1)","17 (40.5)","7 (22.6)","41 (66.1)",,,
+"1","Gen. Char.","Sex","curr_sex","Categorical; # (%)","Missing Data","0","0","0","0",,,
+"1","Gen. Char.","Duration of Illness","duration_illness","Continuous; M (SD)",,"13.06 (13.27)","NaN (NA)","NaN (NA)","13.06 (13.27)",,,
+"1","Gen. Char.","Tot. Chlorpromazine","TotChlorpromazine","Continuous; M (SD)",,"420.75 (297.47)","NaN (NA)","NaN (NA)","420.75 (297.47)",,,
+"1","Gen. Char.","Years of Education (YoE)","educat_level","Continuous; M (SD)",,"15.2 (2.39)","16.36 (2.28)","15.94 (2.21)","14 (1.99)","17.457429","2, 130","0"
+"1","Gen. Char.","Race","race","Categorical; # (%)","Asian","9 (6.7)","6 (14.3)","0 (0)","3 (4.8)","17.593996","8","0.024485"
+"1","Gen. Char.","Race","race","Categorical; # (%)","Black","30 (22.2)","6 (14.3)","4 (12.9)","20 (32.3)",,,
+"1","Gen. Char.","Race","race","Categorical; # (%)","Mixed","6 (4.4)","1 (2.4)","1 (3.2)","4 (6.5)",,,
+"1","Gen. Char.","Race","race","Categorical; # (%)","Unknown","5 (3.7)","1 (2.4)","3 (9.7)","1 (1.6)",,,
+"1","Gen. Char.","Race","race","Categorical; # (%)","White","85 (63)","28 (66.7)","23 (74.2)","34 (54.8)",,,
+"1","Gen. Char.","Race","race","Categorical; # (%)","Missing Data","0","0","0","0",,,
+"1","Gen. Char.","Handedness","handedness","Categorical; # (%)","","2 (1.5)","0 (0)","2 (6.5)","0 (0)","10.602888","4","0.031409"
+"1","Gen. Char.","Handedness","handedness","Categorical; # (%)","L","9 (6.7)","5 (11.9)","0 (0)","4 (6.5)",,,
+"1","Gen. Char.","Handedness","handedness","Categorical; # (%)","R","124 (91.9)","37 (88.1)","29 (93.5)","58 (93.5)",,,
+"1","Gen. Char.","Handedness","handedness","Categorical; # (%)","Missing Data","0","0","0","0",,,
+"1","Gen. Char.","Age at First Episde","age_first_ah","Continuous; M (SD)",,"17.82 (8.84)","NaN (NA)","13.69 (11.76)","20.04 (5.78)","10.913012","1, 81","0.001423"
+"1","Gen. Char.","Mother YoE","F_educat_level","Continuous; M (SD)",,"14.85 (3.38)","14.93 (3.95)","14.07 (3.22)","15.21 (2.93)","1.08581","2, 120","0.340922"
+"1","Gen. Char.","Father YoE","M_educat_level","Continuous; M (SD)",,"14.71 (3.19)","15.12 (4.25)","14.58 (2.74)","14.49 (2.49)","0.496692","2, 126","0.609727"

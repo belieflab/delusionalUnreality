@@ -4,7 +4,7 @@ rm(list = ls()) # erase previous Global Environment, import manually the file
 if (!require(foreach)) install.packages("foreach"); library(foreach)
 if (!require(doParallel)) install.packages("doParallel"); library(doParallel)
 
-# import data and functions
+# import data and functions (all IDs)
 db <- read.csv("data/data_modelling_v2.csv")
 source("functions.R")
 

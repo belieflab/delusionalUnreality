@@ -22,7 +22,8 @@ if (!file.exists("data/mod0_summary.csv")) {
   estimateFiles <- outersect(all,recoveryFiles); remove(all)
   estimateFiles <- estimateFiles[!grepl(".csv",estimateFiles)]
   
-  # add r_hat to it
+  # add r_hat to it (in order to condudct model validation, see last figure 
+  # in this script)
   lf <- read.csv("data/data_modelling_v2.csv")
   
   # merge participants
@@ -77,7 +78,7 @@ for (i in 1:length(src_subject_id)) {
 temp <- temp[order(temp$src_subject_id),]
 e_param <- e_param[order(e_param$src_subject_id),]
 
-# sanity check, it must be 142
+# sanity check
 sum(temp$src_subject_id == e_param$src_subject_id)
 
 # combine estimate and recovery

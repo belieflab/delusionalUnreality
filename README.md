@@ -15,5 +15,5 @@ Castiello, S., Rossi-Goldthorpe, R., Fan, S., Kenney, J., Waltz, J. A., Erickson
 
 
 ### folders
-- data, jere you will find 3 csvs: long format, wide format, and a trial by trial long format prediction error estimated via the computational model.
+- data, please write us so we can provide the annonimized data. Including, long format, wide format, and a trial by trial long format prediction error estimated via the computational model.
 - figures, the figures from main.R will be printed here.
